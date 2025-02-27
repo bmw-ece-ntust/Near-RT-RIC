@@ -1,8 +1,6 @@
 # 【K Release】 Near-RT RIC Installation Guide
 
 Branch: K Release
-Status: 進行中
-
 <aside>
 💡
 
